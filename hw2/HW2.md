@@ -53,6 +53,6 @@
 - перечень мер защиты CIS Controls v8;
 - перечень мер NIST CSF 2.0:
 
-  **[«Маппинг мер FSTEC/ CIS/ NIST](./HW2_list_unique_protections_FSTEC%20of%20Russia_vs_CIS.xlsx)**
+  **[«Маппинг мер FSTEC/ CIS/ NIST](./HW2_list_unique_protections_FSTEC%20of%20Russia_vs_CIS_&_NIST.xlsx)**
 
 ---
