@@ -33,7 +33,7 @@ Linux:
 
 ---
 
-📌 2. Доп. задание\* (не обязательное): напишите программу на Python, которая будет вычислять хэш-значения.
+📌 2. Доп. задание\* (не обязательное): напишите программу на Python, которая будет вычислять хэш-значения (файл формата .py или .ipynb).
 
 ---
 
@@ -69,8 +69,8 @@ _2. Выполнение задания №3.2:_
 
 ---
 
-_3. Выполнение:_
+_3. Выполнение доп.задания\*:_
 
-<!-- Read more JupyterLab file [here scan_apiVirusTotal.ipynb](./scan_apiVirusTotal.ipynb) # It works!
+Read more JupyterLab file [here get_hash_python.ipynb](./get_hash_python.ipynb)
 
-Read more Python file [here scan_apiVirusTotal.py](./scan_apiVirusTotal.py) # It works too! -->
+<!-- Read more Python file [here get_hash_python.py](./get_hash_python.py)  -->
