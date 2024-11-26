@@ -43,7 +43,7 @@
 
    ![hw2_image4](img/NIST.jpg)
 
-   **[«Перечень мер NIST CSF 2.0»](./HW2-NIST_csf2.xlsx)**
+   **[«Перечень мер NIST CSF 2.0»](hw2/HW2-NIST_csf2.xlsx)**
 
    ***
 
