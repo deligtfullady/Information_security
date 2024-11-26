@@ -6,7 +6,7 @@
 
 HW1:
 «Введение в информационную безопасность»
-<https://docs.google.com/document/d/173P9lRqO23wtHw3A7kLT6MohOgYAZOZ6zTcM2JhiA4Q/edit?tab=t.0#heading=h.7tkw8pdje3t5>
+<https://docs.google.com/document/d/1yLHLZpV2UY0s2FmIfNsFubBIYuah3y67B1tqndfMksQ/edit?tab=t.0>
 
 ---
 
