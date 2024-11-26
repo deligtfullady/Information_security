@@ -21,11 +21,11 @@
 
    ![hw2_image1](img/image1.jpg)
 
-   [«Перечень сформированных угроз FSTEC of Russia»](./HW2-list_threats_generated_FSTEC%20of%20Russia.xlsx)
+   [«Перечень сформированных угроз FSTEC of Russia»](hw2/HW2-list_threats_generated_FSTEC of Russia.xlsx)
 
    С использованием Python выполним агрегацию мер защиты по критерию уникальности:
 
-   **[«Перечень уникальных мер защиты FSTEC of Russia»](./HW2-list_unique_protections_FSTEC%20of%20Russia.xlsx)**
+   **[«Перечень уникальных мер защиты FSTEC of Russia»](hw2/HW2-list_unique_protections_FSTEC of Russia.xlsx)**
 
    ![hw2_image2](img/dashboard.jpg)
 
