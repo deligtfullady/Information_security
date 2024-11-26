@@ -21,7 +21,7 @@
 
    ![hw2_image1](img/image1.jpg)
 
-   [«Перечень сформированных угроз FSTEC of Russia»](hw2/HW2-list_threats_generated_FSTEC of Russia.xlsx)
+   [«Перечень сформированных угроз FSTEC of Russia»](*/HW2-list_threats_generated_FSTEC of Russia.xlsx)
 
    С использованием Python выполним агрегацию мер защиты по критерию уникальности:
 
@@ -43,7 +43,7 @@
 
    ![hw2_image4](img/NIST.jpg)
 
-   **[«Перечень мер NIST CSF 2.0»](hw2/HW2-NIST_csf2.xlsx)**
+   **[«Перечень мер NIST CSF 2.0»]*/HW2-NIST_csf2.xlsx)**
 
    ***
 
