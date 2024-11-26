@@ -33,7 +33,7 @@
 
    ![hw2_image3](img/CIS.jpg)
 
-   **[«Перечень мер защиты CIS Controls v8»](./HW2-CIS_Controls_v8_Change_Log.xlsx)**
+   **[«Перечень мер защиты CIS Controls v8»](*./HW2-CIS_Controls_v8_Change_Log.xlsx)**
 
    ***
 
