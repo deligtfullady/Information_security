@@ -22,11 +22,11 @@
 
    ![hw2_image1](img/image1.jpg)
 
-   [«Перечень сформированных угроз FSTEC of Russia»](*/HW2-list_threats_generated_FSTEC of Russia.xlsx)
+   [«Перечень сформированных угроз FSTEC of Russia»](./HW2-list_threats_generated_FSTEC%20of%20Russia.xlsx)
 
    С использованием Python выполним агрегацию мер защиты по критерию уникальности:
 
-   **[«Перечень уникальных мер защиты FSTEC of Russia»](hw2/HW2-list_unique_protections_FSTEC of Russia.xlsx)**
+   **[«Перечень уникальных мер защиты FSTEC of Russia»](./HW2-list_unique_protections_FSTEC%20of%20Russia.xlsx)**
 
    ![hw2_image2](img/dashboard.jpg)
 
@@ -34,7 +34,7 @@
 
    ![hw2_image3](img/CIS.jpg)
 
-   **[«Перечень мер защиты CIS Controls v8»](*./HW2-CIS_Controls_v8_Change_Log.xlsx)**
+   **[«Перечень мер защиты CIS Controls v8»](./HW2-CIS_Controls_v8_Change_Log.xlsx)**
 
    ***
 
@@ -44,7 +44,7 @@
 
    ![hw2_image4](img/NIST.jpg)
 
-   **[«Перечень мер NIST CSF 2.0»]*/HW2-NIST_csf2.xlsx)**
+   **[«Перечень мер NIST CSF 2.0»](./HW2-NIST_csf2.xlsx)**
 
    ***
 
@@ -54,6 +54,6 @@
 - перечень мер защиты CIS Controls v8;
 - перечень мер NIST CSF 2.0:
 
-  **[«Маппинг мер FSTEC/ CIS/ NIST](hw2/HW2_list_unique_protections_FSTEC of Russia_vs_CIS_&_NIST.xlsx)**
+  **[«Маппинг мер FSTEC/ CIS/ NIST](./HW2_list_unique_protections_FSTEC%20of%20Russia_vs_CIS_&_NIST.xlsx)**
 
 ---
